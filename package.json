@@ -1,0 +1,25 @@
+{
+  "name": "staking-contract",
+  "version": "1.0.0",
+  "description": "This repository contains a Solidity-based staking smart contract designed for secure and efficient staking of tokens. The contract has been thoroughly tested to ensure reliability and functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishwa9011/staking-contract.git"
+  },
+  "author": "Vishwa Vivek Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishwa9011/staking-contract/issues"
+  },
+  "homepage": "https://github.com/Vishwa9011/staking-contract#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "dotenv": "^16.3.1",
+    "hardhat": "^2.19.4",
+    "solc": "^0.8.23-fixed"
+  }
+}
